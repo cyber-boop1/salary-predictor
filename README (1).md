@@ -11,7 +11,7 @@ A machine learning web app that predicts tech job salaries in India based on you
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to try the app](https://your-app-link.streamlit.app)
+👉 [Click here to try the app](https://salary-predictor-ra6m66ycda7q2a3uq5mcf9.streamlit.app/)
 
 ---
 
